@@ -1,14 +1,13 @@
 ### Projeto LabUniverse
 
+### 🔗 [Link Projeto](https://bite-sized-low.surge.sh)
+
 ### O que funciona
 - Card de produto tem animações ao passar o mouse neles, o botão de adicionar item faz acrecenta o produto no carrinho de compras, o carrinho de compras fica oculto mas surge se o icone de carrinho no header for clicado, dentro do carrinho podemos ver os itens selecionados, a quantia de cada um e o valor total de compra, também é possivel remover os itens do carrinho e assim o valor total é recalculado, os filtros de busca por valor, ou de pesquisa de busca estão todos funcionando, retornando os cards dos itens correspondentes.
 
 ### O que não funciona
 - As opções de login e criar conta no header não tem funcionalidade.
-
-### 🔗 Link Surge 
-
-https://bite-sized-low.surge.sh
+- Ainda não está responsivo.
 
 ### :computer: Tecnologias
 
