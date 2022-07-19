@@ -47,4 +47,4 @@ $ npm start
 
 ## 👨‍💻 Desenvolvedores:
 
-| [Renan Martinez](https://github.com/Renan-Ma) | [Matheus Souza](https://github.com/matheus92as) | [Marcos Vinicius](https://github.com/Marcos-vvc) | 
+| [Renan Martinez](https://github.com/Renan-Ma) | 
